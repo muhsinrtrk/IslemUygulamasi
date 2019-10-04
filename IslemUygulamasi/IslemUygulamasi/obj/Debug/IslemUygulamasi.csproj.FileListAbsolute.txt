@@ -1,0 +1,9 @@
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\bin\Debug\IslemUygulamasi.exe.config
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\bin\Debug\IslemUygulamasi.exe
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\bin\Debug\IslemUygulamasi.pdb
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\obj\Debug\IslemUygulamasi.csprojAssemblyReference.cache
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\obj\Debug\IslemUygulamasi.frmIslemuygulaması.resources
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\obj\Debug\IslemUygulamasi.Properties.Resources.resources
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\obj\Debug\IslemUygulamasi.csproj.GenerateResource.cache
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\obj\Debug\IslemUygulamasi.exe
+C:\Users\Muhsin\Desktop\nesnep\IslemUygulamasi\IslemUygulamasi\obj\Debug\IslemUygulamasi.pdb
